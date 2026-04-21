@@ -1,5 +1,4 @@
-# @flo-cli
-
+![FLO-cli Architecture](fllo-cli.jpg)
 # FLO-cli (FlowKit Command Line Interface)
 
 **FLO-cli** is a high-performance Rust-based orchestration engine designed to bridge the gap between structured research in Obsidian and cinematic video production via Google Flow/VEO.
